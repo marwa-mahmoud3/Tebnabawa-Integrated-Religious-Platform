@@ -1,4 +1,4 @@
-# 🌿 Integrated Religious Platform (Tebnabawa)
+# 🕌 Integrated Religious Platform (Tebnabawa)
 
 ### [ Full-Stack Freelance Project | Angular 14 & .NET Core ]
 
